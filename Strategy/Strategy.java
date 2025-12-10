@@ -1,6 +1,4 @@
-package FactoryMethod;
-
-public class FactoryMethod {
+public class Strategy {
 
     public interface DescuentoStrategy {
         double aplicarDescuento(double precio);
