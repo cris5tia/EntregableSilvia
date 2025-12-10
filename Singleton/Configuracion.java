@@ -21,3 +21,5 @@ public class Configuracion {
         this.idioma = idioma;
     }
 }
+
+
